@@ -1,0 +1,27 @@
+.retail-main-div{
+    display: flex;
+    justify-content: space-around;
+}
+.img-div{
+    width:40%;
+}
+.info-div{
+    width:60%;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 50px;
+}
+
+.retail-image{
+    height: 90%;
+    width: 90%;
+    margin: 30px;
+    border-radius: 45px;
+}
+.info{
+    font-size: 25px;
+    width: 100%;
+    text-indent: 10%;
+    text-align: justify;
+    text-justify: inter-word;
+}
